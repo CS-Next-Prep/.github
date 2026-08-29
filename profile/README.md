@@ -1,143 +1,60 @@
-# Welcome to CS-Next
+<h1 align="center">Welcome to CS-Next</h1>
 
-<img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/a7f045dc-68ea-4c01-9309-56eda590e8e1" />
+<img width="1920" height="1080" alt="CS-Next Logo" src="https://github.com/user-attachments/assets/84cc0d97-72ca-4412-ae34-6111f2141505" />
 
-CS-Next is a student-led community for people who want to take computer science, engineering, and career preparation seriously.
 
-We believe that progress is easier when it is shared. Good resources matter, but so do good people: students who ask better questions, share what they learn, review each other’s work, and stay consistent when preparation becomes difficult.
 
-CS-Next exists to bring such people together.
+**CS-Next** is a student-led technical education club at **[Ideal Institute of Technology, Andhra Pradesh, India](https://www.idealtech.edu.in/website/home.html)**, built for students who want their preparation to go further than what a syllabus requires. Most of what actually determines whether a student is ready for a product-based company — real problem-solving ability, exposure to how software gets built in practice, familiarity with the kind of questions those companies ask isn't covered by a semester exam. CS-Next works to close that gap through sustained, peer-driven effort: technical discussions, MOOCs, problem-solving, collaborative software projects, structured peer review, and the deliberate exchange of resources members have found genuinely useful.
 
-Our aim is simple: build a community where ambition is matched by discipline, curiosity is turned into practical work, and every member has the opportunity to grow through meaningful collaboration.
+## Areas of activity
 
-## What we stand for
+CS-Next's work spans the parts of technical education that improve most with regular practice and collaboration, rather than one-off effort:
 
-CS-Next is built around a few straightforward ideas:
+- Computer science concepts and problem-solving, built to hold up under interview pressure and real project work, not just exam conditions
+- Technical interview preparation aimed specifically at the kind of questions product-based companies ask, not generic problem sets
+- Software development and project work, done end to end and in teams, with the friction that comes from real collaboration
+- Open-source participation: contributing to projects beyond the club's own, and learning from how they're run
+- Peer learning and review: explaining what you understand well enough for someone else to use it, and having your own work checked in turn
+- Career-oriented discussions grounded in what's actually expected once someone starts applying, not general encouragement
 
-- Technical growth should not feel isolated.
-- Useful knowledge should be shared clearly and responsibly.
-- Strong communities are built through contribution, not just consumption.
-- Access to preparation resources should not depend entirely on expensive subscriptions.
-- Consistency, honesty, and effort matter more than shortcuts.
-- Good work should be practical, thoughtful, and open to improvement.
+Every activity the club runs is chosen because it produces something a member can use — a concept that's actually clear now, a project they can point to, or a resource that saves the next person the time it took to find.
 
-We are interested in more than simply completing projects. We want to learn how to think clearly, communicate well, build things that people can use, and help one another move forward.
+## Our approach
 
-## What we do
+CS-Next gives members room to explore beyond the syllabus, but keeps that exploration tied to a clear standard: a discussion should leave something clarified, a project should leave someone with real hands-on experience, and a shared resource should move someone's preparation forward not just add to a pile of links no one revisits.
 
-CS-Next creates and supports practical work around computer science and technical preparation.
-
-This can include:
-
-- Open-source projects
-- Technical interview preparation resources
-- Community-driven study material
-- Data and reference tools
-- Peer learning and review
-- Product-building and engineering practice
-- Discussions around careers, problem-solving, and continuous improvement
-
-Every project should have a clear purpose. We prefer useful, focused work over unnecessary complexity.
-
-## Our current project
-
-### ByCompany
-
-[ByCompany](https://github.com/CS-Next-Prep/ByCompany) is a company-wise technical interview reference created for focused preparation.
-
-It helps students explore technical interview questions by company, review relevant question details, compare companies, and access the original problem pages.
-
-ByCompany reflects an important part of the CS-Next approach: make preparation more accessible, keep it practical, and remove unnecessary barriers between a student and useful information.
-
-It is built for learners who want to prepare seriously, including those who may not have access to expensive interview-preparation subscriptions.
+Membership carries a few expectations the club takes seriously: ask questions rather than sit with confusion, verify what you share before passing it on, credit and respect the work of others, and take responsibility for the quality of your own contributions. Experience level isn't a barrier to joining willingness to participate and keep learning is.
 
 ## Leadership
 
-CS-Next is currently led by:
+| **Position** | **Name** |
+|---|---|
+| Faculty Advisors | **[Smt. P. Radhika Krupalini](https://www.linkedin.com/in/radhika-krupalini-85758b349/)**, **[Sri. M.S.R.S. Prasad](https://www.idealtech.edu.in/website/Departments-CSE.php)** |
+| President | **[Immidi Naga Vijay Vardhan Guptha](https://www.linkedin.com/in/vardhan-immidi/)** |
+| Vice President | **[Penmatsa Tanoj Pavan Surya Varma](www.linkedin.com/in/varma1221)** |
 
-- **Naga Vijay Vardhan Gupta Immidi** — President  
-  [@vardhan-IMMIDI](https://github.com/vardhan-immidi)
+The leadership team is responsible for the club's academic and technical direction, coordinates member-led initiatives, and works to build the structure that lets students learn from and build with each other.
 
-- **Tanoj Pavan Surya Varma Penmatsa** — Vice President  
-  [@varma1221](https://github.com/varma1221)
+## Club initiative
 
-The goal of the leadership team is not simply to manage projects. It is to create an environment where motivated students can find good collaborators, take ownership of meaningful work, and become more capable through the process.
+### ByCompany - #1
 
-## The kind of community we want to build
+[ByCompany](https://by-company.vercel.app) is CS-Next's answer to a specific problem: the interview preparation data that actually matters — which companies ask which questions — sits behind a paid subscription that not every student can afford. ByCompany is a free, ad-free directory that surfaces that same information: company browsing, question search, difficulty and topic filters, frequency data where it's available, and direct links back to the original LeetCode problem pages.
 
-We want CS-Next to be a place for students who care about improving their craft.
+ByCompany displays question metadata only. It does not reproduce LeetCode problem statements, and it is an independent, community-run project with no affiliation to or endorsement from LeetCode.
 
-That means people who are willing to learn in public, accept feedback, help others when they can, and keep showing up. It means treating technical preparation as a long-term practice rather than a last-minute task.
+The project also doubles as a test of the club's own standards: the data has to stay accurate, the contribution process has to be usable by students who've never opened a pull request before, and the site has to actually be worth using — not just exist.
 
-A strong community is not defined by how many people join it. It is defined by the quality of its conversations, the reliability of its members, and the work it produces together.
+Found an issue, missing a company, or have an idea worth building? Email **csnext.ideal@gmail.com** or open an issue on the [ByCompany repository](https://github.com/CS-Next-Prep/By-Company/issues).
 
-CS-Next welcomes beginners who are serious about learning, experienced students who are willing to guide others, builders who want to ship useful projects, and collaborators who believe that shared effort can create opportunities for everyone involved.
+[Visit ByCompany →](https://by-company.vercel.app)
 
-## How to get involved
+## Get in touch
 
-There are several ways to participate in CS-Next:
-
-1. Explore our projects and use them in your own preparation.
-2. Report issues, incorrect information, or broken links.
-3. Share thoughtful feature ideas through GitHub Discussions.
-4. Contribute code, documentation, research, design, or data corrections.
-5. Review open pull requests and help improve the quality of our work.
-6. Join conversations, ask useful questions, and help others when you can.
-
-You do not need to know everything before contributing. Curiosity, consistency, and respect for the work are enough to begin.
-
-## How we work
-
-We value work that is clear, reviewable, and useful.
-
-When contributing to a CS-Next project, we encourage members to:
-
-- Understand the problem before proposing a solution
-- Keep contributions focused and well documented
-- Check facts before submitting data corrections
-- Respect legal, licensing, and trademark boundaries
-- Write clear pull-request descriptions
-- Accept feedback without taking it personally
-- Give feedback with the intention of improving the work
-- Leave a project cleaner than they found it
-
-We do not believe in adding features merely because they sound impressive. A feature should solve a real problem for a real user.
-
-## Accessibility and access
-
-Preparation should not be limited to people with the most resources.
-
-CS-Next is committed to building tools and sharing knowledge in ways that remain approachable, free where possible, and easy to use. We believe students should be able to find direction, practise with purpose, and participate in technical communities without unnecessary financial barriers.
-
-This does not remove the need for effort. It makes sure effort has a fairer place to begin.
-
-## Community conduct
-
-CS-Next should be a respectful place to learn and collaborate.
-
-We expect members to:
-
-- Treat others with respect
-- Be open to different levels of experience
-- Credit people for their work
-- Avoid harassment, discrimination, and unnecessary hostility
-- Keep discussions constructive
-- Respect privacy and intellectual property
-- Focus on helping the community improve
-
-Disagreement is normal. Disrespect is not.
-
-## Looking ahead
-
-CS-Next is still growing, and so is the work we want to take on.
-
-We want to build useful projects, strengthen technical preparation, create opportunities for student collaboration, and form a community that can take on ambitious goals together.
-
-The best communities are not built overnight. They are built through small, consistent actions: one useful contribution, one thoughtful discussion, one honest review, and one person helping another move forward.
-
-That is the work we are here to do.
+CS-Next is open to students at Ideal Institute of Technology who want to be part of this. For questions about the club, its activities, or how to get involved, reach out at **csnext.ideal@gmail.com**, or follow the club's work on [GitHub](https://github.com/CS-Next-Prep).
 
 ---
 
-**CS-Next**  
+**CS-Next**
+
 *For the pursuit of excellence.*
