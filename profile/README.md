@@ -31,7 +31,7 @@ Membership carries a few expectations the club takes seriously: ask questions ra
 |---|---|
 | Faculty Advisors | **[Smt. P. Radhika Krupalini](https://www.linkedin.com/in/radhika-krupalini-85758b349/)**, **[Sri. M.S.R.S. Prasad](https://www.idealtech.edu.in/website/Departments-CSE.php)** |
 | President | **[Immidi Naga Vijay Vardhan Guptha](https://www.linkedin.com/in/vardhan-immidi/)** |
-| Vice President | **[Penmatsa Tanoj Pavan Surya Varma](www.linkedin.com/in/varma1221)** |
+| Vice President | **[Penmatsa Tanoj Pavan Surya Varma](https://www.linkedin.com/in/varma1221)** |
 
 The leadership team is responsible for the club's academic and technical direction, coordinates member-led initiatives, and works to build the structure that lets students learn from and build with each other.
 
