@@ -50,7 +50,7 @@ Found an issue, missing a company, or have an idea worth building? Email **csnex
 
 ## Get in touch
 
-CS-Next is open to students at Ideal Institute of Technology who want to be part of this. For questions about the club, its activities, or how to get involved, reach out at **csnext.ideal@gmail.com**, or follow the club's work on [GitHub](https://github.com/CS-Next-Prep).
+For questions about the club, its activities, or how to get involved, reach out at **csnext.ideal@gmail.com**, or follow the club's work on [GitHub](https://github.com/CS-Next-Prep).
 
 ---
 
