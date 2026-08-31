@@ -4,7 +4,7 @@
 
 
 
-**CS-Next** is a student-led technical education club at **[Ideal Institute of Technology, Andhra Pradesh, India](https://www.idealtech.edu.in/website/home.html)**, built for students who want their preparation to go further than what a syllabus requires. Most of what actually determines whether a student is ready for a product-based company — real problem-solving ability, exposure to how software gets built in practice, familiarity with the kind of questions those companies ask isn't covered by a semester exam. CS-Next works to close that gap through sustained, peer-driven effort: technical discussions, MOOCs, problem-solving, collaborative software projects, structured peer review, and the deliberate exchange of resources members have found genuinely useful.
+**CS-Next** is a student-led technical education club built for students who want their preparation to go further than what a syllabus requires. Most of what actually determines whether a student is ready for a product-based company — real problem-solving ability, exposure to how software gets built in practice, familiarity with the kind of questions those companies ask isn't covered by a semester exam. CS-Next works to close that gap through sustained, peer-driven effort: technical discussions, MOOCs, problem-solving, collaborative software projects, structured peer review, and the deliberate exchange of resources members have found genuinely useful.
 
 ## Areas of activity
 
@@ -29,7 +29,6 @@ Membership carries a few expectations the club takes seriously: ask questions ra
 
 | **Position** | **Name** |
 |---|---|
-| Faculty Advisors | **[Smt. P. Radhika Krupalini](https://www.linkedin.com/in/radhika-krupalini-85758b349/)**, **[Sri. M.S.R.S. Prasad](https://www.idealtech.edu.in/website/Departments-CSE.php)** |
 | President | **[Immidi Naga Vijay Vardhan Guptha](https://www.linkedin.com/in/vardhan-immidi/)** |
 | Vice President | **[Penmatsa Tanoj Pavan Surya Varma](https://www.linkedin.com/in/varma1221)** |
 
